@@ -1,0 +1,1 @@
+java -Djava.library.path=".:./libs" -jar target/grasp-1.0.0-jar-with-dependencies.jar $1
